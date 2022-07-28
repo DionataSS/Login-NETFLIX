@@ -1,7 +1,9 @@
 
-![NETFLIX](https://github.com/DionataSS/DionataSS/blob/main/NFimage.png)
+![NETFLIX](https://github.com/DionataSS/Login-NETFLIX/blob/master/netflix.gif)
 
-Netflix page recreated by me using HTML Javascript and Css
+## Netflix page recreated with HTML / JavaScript / CSS
+
+## Simulate an account and have fun!
 
 Link:
 https://dionatass.github.io/Login-NETFLIX/
